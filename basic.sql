@@ -152,3 +152,6 @@ SELECT * FROM products LIMIT 4 OFFSET 0;
 SELECT * FROM products LIMIT 4 OFFSET 4;
 -- page 3 offset = 8
 SELECT * FROM products LIMIT 4 OFFSET 8;
+
+-- TAGAS 1 -> lengkapi dari tugas sebleumnya dan diberi primary key dan FOREIGN untuk table yg memeiliki relasi (wajib minimal 1 table relasi ke table lain)
+-- TUGAS 2 -> hafal query untuk CRUD, filter (where), search (ilike), sorting (sort by), pagination(offset dan limit)
